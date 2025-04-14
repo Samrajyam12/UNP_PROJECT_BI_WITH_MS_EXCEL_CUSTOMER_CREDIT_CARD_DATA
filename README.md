@@ -8,4 +8,4 @@ Using Excel, we created various tables, pivot tables, and pivot charts to visual
 
 Overall, the dashboard provided a clear and insightful view into customer demographics and spending behavior, aiding in better understanding and decision-making.
 
-MS EXCEL PROJECT FILE : https://docs.google.com/spreadsheets/d/1WviXXjHJsKtIltLFZ6cBT6HXfIKJYNTf/edit?usp=sharing&ouid=109551633642210508649&rtpof=true&sd=true 
+MS EXCEL PROJECT FILE : https://1drv.ms/x/s!Ah7TqaVg98A6cslfXiTtTOYH8UY?e=8Yaub3 
